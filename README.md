@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, HTML, Kotlin, Android Application Development.**
 
-- 📫 How to reach me **namanagarwaldbs438@gmail.com, https://www.linkedin.com/in/naman-agarwal-9742a4198/**
+- 📫 How to reach me **namanagarwaldbs438@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
