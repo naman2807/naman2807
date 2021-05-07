@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building applications using Java and JavaFX.**
 
-- 🌱 I’m currently learning **Android Development using Kotlin.**
+- 🌱 I’m currently learning **Android Development using Kotlin.** 
 
 - 👯 I’m looking to collaborate on **Android development and building applications using Java.**
 
@@ -18,6 +18,8 @@
 - 💬 Ask me about **Java, HTML, Kotlin, Android Application Development.**
 
 - 📫 How to reach me:  **namanagarwaldbs438@gmail.com**
+
+- 🔭 Google Developer's Profile: **https://developers.google.com/profile/u/105878652992077747606**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
