@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naman Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Naman Agarwal(naman2807)</h1>
 <h3 align="center">A student with challenging goals and busy in learning new tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman2807&label=Profile%20views&color=0e75b6&style=flat" alt="naman2807" /> </p>
