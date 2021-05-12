@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman2807" alt="naman2807" /></a> </p>
 
-- 🔭 I’m currently working on **building applications using Java and JavaFX.**
+- 🔭 I’m currently working on **Medicine Reminder App.**
 
 - 🌱 I’m currently learning **Android Development using Kotlin.** 
 
