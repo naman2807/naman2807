@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Medicine Reminder App.**
 
-- 🌱 I’m currently learning **Android Development using Kotlin📱.** 
+- 🌱 I’m currently learning **Android Development using Kotlin📱, DevOps👩‍💻 and Cloud Computing☁️.** 
 
 - 👯 I’m looking to collaborate on **Android development and building applications using Java.**
 
