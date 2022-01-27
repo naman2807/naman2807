@@ -6,7 +6,7 @@
 <h3>🏆 Github Profile Trophies. </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman2807" alt="naman2807" /></a> </p>
 
-- 🔭 I’m currently working on **Academia Android App.**
+- 🔭 I’m currently working on **Morr App.**
 
 - 🌱 I’m currently learning **Android Development using Kotlin📱, DevOps👩‍💻 and Cloud Computing☁️.** 
 
