@@ -6,17 +6,15 @@
 <h3>🏆 Github Profile Trophies. </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman2807" alt="naman2807" /></a> </p>
 
-- 🔭 I’m currently working on **Morr App.**
+- 🔭 I’m currently working on **Mobile Applications.**
 
-- 🌱 I’m currently learning **Android Development using Kotlin📱, FastAPI👩‍💻.** 
-
-- 👯 I’m looking to collaborate on **Android development and building applications using FastAPI.**
+- 👯 I’m looking to collaborate on **Mobile Development and building applications using FastAPI.**
 
 - 🤝 I’m looking for help with [Online Exam Portal using JavaFX.](https://github.com/naman2807/OnlineExamFacultyPortalJavaFX, https://github.com/naman2807/OnlineExamStudentPortalJavaFX)
 
 - 👨‍💻 All of my projects are available at [https://github.com/naman2807](https://github.com/naman2807)
 
-- 💬 Ask me about **Java, HTML, Kotlin, Android Application Development.**
+- 💬 Ask me about **React Native, Typescript, Javascript, Flutter, Dart, Java, HTML, Kotlin, Android Application Development.**
 
 - 📫 How to reach me:  **namanagarwaldbs438@gmail.com**
 
